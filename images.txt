@@ -4,4 +4,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 openjdk:17-jdk-alpine
-jenkins:2.449-jdk17
+jenkins/jenkins:2.426.1-lts-jdk17
+jenkins/jenkins:2.449-jdk17
