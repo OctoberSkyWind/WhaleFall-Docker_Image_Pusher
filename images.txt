@@ -11,4 +11,4 @@ redis:7.2
 mysql:8.0
 rabbitmq:3.13.4-management
 gogs/gogs:0.13
-mongo:8.0-rc-nanoserver-ltsc2022
+
