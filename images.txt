@@ -7,3 +7,8 @@ openjdk:17-jdk-alpine
 jenkins/jenkins:2.426.1-lts-jdk17
 jenkins/jenkins:2.449-jdk17
 leifengyang/jenkins:2.455-jdk21
+redis:7.2
+mysql:8.0
+rabbitmq:3.13.4-management
+gogs/gogs:0.13
+mongo:8.0-rc-nanoserver-ltsc2022
