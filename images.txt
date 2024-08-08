@@ -11,4 +11,5 @@ redis:7.2
 mysql:8.0
 rabbitmq:3.13.4-management
 gogs/gogs:0.13
+twang2218/gitlab-ce-zh 
 
