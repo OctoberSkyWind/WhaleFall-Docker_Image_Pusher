@@ -13,3 +13,4 @@ rabbitmq:3.13.4-management
 gogs/gogs:0.13
 twang2218/gitlab-ce-zh 
 flowable/flowable-ui:6.8.0
+docker.io/jenkinsci/blueocean:1.25.7
