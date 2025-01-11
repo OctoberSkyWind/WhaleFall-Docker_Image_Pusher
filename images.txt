@@ -15,3 +15,4 @@ twang2218/gitlab-ce-zh
 flowable/flowable-ui:6.8.0
 docker.io/jenkinsci/blueocean:1.25.7
 gvenzl/oracle-xe:21.3.0-slim-faststart
+gvenzl/oracle-xe:21-slim-faststart
