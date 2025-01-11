@@ -14,3 +14,4 @@ gogs/gogs:0.13
 twang2218/gitlab-ce-zh 
 flowable/flowable-ui:6.8.0
 docker.io/jenkinsci/blueocean:1.25.7
+gvenzl/oracle-xe:21.3.0-slim-faststart
