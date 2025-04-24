@@ -19,3 +19,4 @@ gvenzl/oracle-xe:21-slim-faststart
 ghcr.io/open-webui/open-webui:main
 streamsets/datacollector:3.9.1
 apache/rocketmq:5.3.2
+nacos/nacos-server:v2.5.1
